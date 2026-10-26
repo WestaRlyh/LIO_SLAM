@@ -4,10 +4,11 @@
 
 ## 演示视频
 
-<video controls width="800" preload="metadata">
-  <source src="data/SLAM.mp4" type="video/mp4">
-  当前环境不支持直接播放，请[下载演示视频](data/SLAM.mp4)查看。
-</video>
+GitHub README 不支持直接渲染仓库内 MP4 播放器，请点击下方链接查看或下载演示视频：
+
+[▶ 查看 SLAM 演示视频（MP4）](https://github.com/WestaRlyh/LIO_SLAM/raw/refs/heads/main/data/SLAM.mp4)
+
+视频源文件：[data/SLAM.mp4](data/SLAM.mp4)
 
 ## 主要功能
 
