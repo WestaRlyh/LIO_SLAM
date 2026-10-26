@@ -2,6 +2,8 @@
 
 基于 Livox LiDAR 的激光—惯性里程计与建图工程。核心算法位于 `LIO-Livox`，使用单个 Livox LiDAR 及其内置 IMU 完成点云特征提取、运动畸变补偿、位姿估计和地图维护。
 
+步兵底层控制（小陀螺算法）位于：https://github.com/WestaRlyh/Infantry_Gyroscope
+
 ## 演示视频
 
 <table>
@@ -13,7 +15,6 @@
   </tr>
 </table>
 
-视频源文件：[data/SLAM.mp4](data/SLAM.mp4)
 
 ## 主要功能
 
@@ -29,7 +30,6 @@
 ```text
 LIO_SLAM/
 ├── data/
-│   └── SLAM.mp4              # 演示视频
 ├── LIO-Livox/
 │   ├── config/                # Horizon、HAP、Mid-360 配置
 │   ├── launch/                # ROS 启动文件
