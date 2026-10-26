@@ -4,9 +4,14 @@
 
 ## 演示视频
 
-GitHub README 不支持直接渲染仓库内 MP4 播放器，请点击下方链接查看或下载演示视频：
-
-[▶ 查看 SLAM 演示视频（MP4）](https://github.com/WestaRlyh/LIO_SLAM/raw/refs/heads/main/data/SLAM.mp4)
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <strong>SLAM Mapping Demo</strong><br>
+      <video src="https://github.com/user-attachments/assets/5e251fdf-0322-4bfa-b1c2-513cee2033f2" controls muted playsinline width="100%"></video>
+    </td>
+  </tr>
+</table>
 
 视频源文件：[data/SLAM.mp4](data/SLAM.mp4)
 
